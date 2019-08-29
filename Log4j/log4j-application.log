@@ -1,0 +1,56 @@
+2019-08-27 21:46:01 INFO  LogHelpers:17 - -----------------Testing the lastname error message --------------------------------------------------------
+2019-08-27 21:46:01 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-27 21:46:01 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-27 21:46:05 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-27 21:52:01 INFO  LogHelpers:17 - -----------------Testing the lastname error message --------------------------------------------------------
+2019-08-27 21:52:01 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-27 21:52:01 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-27 21:52:08 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:32:21 INFO  LogHelpers:17 - -----------------Testing the lastname error message --------------------------------------------------------
+2019-08-29 20:32:21 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:32:21 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:32:29 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:37:52 INFO  LogHelpers:17 - -----------------Testing the firstname error message --------------------------------------------------------
+2019-08-29 20:37:52 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:37:52 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:37:58 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:47:17 INFO  LogHelpers:17 - -----------------Testing the lastname error message --------------------------------------------------------
+2019-08-29 20:47:17 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:47:17 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:47:25 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:47:25 INFO  LogHelpers:17 - -----------------Testing the firstname error message --------------------------------------------------------
+2019-08-29 20:47:25 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:47:25 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:47:31 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:51:53 INFO  LogHelpers:17 - -----------------Testing the lastname error message --------------------------------------------------------
+2019-08-29 20:51:53 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:51:53 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:52:01 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:52:03 INFO  LogHelpers:17 - -----------------Testing the firstname error message --------------------------------------------------------
+2019-08-29 20:52:03 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:52:03 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:52:40 INFO  LogHelpers:27 - Timed out after 5 seconds. Unable to locate the element
+2019-08-29 20:52:40 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:52:40 INFO  LogHelpers:27 - Capturing screen shot as Scenario Failed:  Testing the firstname error message
+2019-08-29 20:57:52 INFO  LogHelpers:17 - -----------------Testing the lastname error message --------------------------------------------------------
+2019-08-29 20:57:52 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:57:52 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:58:00 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 20:58:01 INFO  LogHelpers:17 - -----------------Testing the firstname error message --------------------------------------------------------
+2019-08-29 20:58:01 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 20:58:01 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 20:58:08 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 21:06:19 INFO  LogHelpers:17 - -----------------Testing the lastname error message --------------------------------------------------------
+2019-08-29 21:06:19 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 21:06:20 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 21:06:26 INFO  LogHelpers:27 - Entering firstname as :Mujeeb
+2019-08-29 21:06:27 INFO  LogHelpers:27 - Clicked on Sign up button
+2019-08-29 21:06:27 INFO  LogHelpers:27 - Successfully verified LastName Error message: What's your name?
+2019-08-29 21:06:27 INFO  LogHelpers:27 - In Hooks cleanUp Method
+2019-08-29 21:06:28 INFO  LogHelpers:17 - -----------------Testing the firstname error message --------------------------------------------------------
+2019-08-29 21:06:28 INFO  LogHelpers:27 - In Hooks setUp Method
+2019-08-29 21:06:28 INFO  LogHelpers:27 - Browser seleced is: Chrome
+2019-08-29 21:06:34 INFO  LogHelpers:27 - Entering lastName as :muhammad
+2019-08-29 21:06:35 INFO  LogHelpers:27 - Clicked on Sign up button
+2019-08-29 21:06:35 INFO  LogHelpers:27 - Successfully verified FirstName Error message: What's your name?
+2019-08-29 21:06:35 INFO  LogHelpers:27 - In Hooks cleanUp Method
